@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence-Led Marketing Agent"
+  short_description: "Verified GTM research, strategy, and execution"
+  default_prompt: "Use $evidence-led-marketing-agent to solve this marketing or GTM task with source-backed analysis and business-ready deliverables."
